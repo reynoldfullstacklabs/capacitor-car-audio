@@ -1,6 +1,6 @@
 {
-  "name": "@justicointeractive/capacitor-car-audio",
-  "version": "0.0.1-beta1.2",
+  "name": "@reynoldfullstacklabs/capacitor-car-audio",
+  "version": "0.0.2",
   "description": "Provides Apple CarPlay and Android Auto support for Capacitor audio apps",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,16 +11,16 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "JusticointeractiveCapacitorCarAudio.podspec"
+    "ReynoldfullstacklabsCapacitorCarAudio.podspec"
   ],
   "author": "Joe Flateau",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justicointeractive/capacitor-car-audio.git"
+    "url": "git+https://github.com/reynoldfullstacklabs/capacitor-car-audio.git"
   },
   "bugs": {
-    "url": "https://github.com/justicointeractive/capacitor-car-audio/issues"
+    "url": "https://github.com/reynoldfullstacklabs/capacitor-car-audio/issues"
   },
   "keywords": [
     "capacitor",

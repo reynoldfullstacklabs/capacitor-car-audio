@@ -1,11 +1,11 @@
-# @justicointeractive/capacitor-car-audio
+# @reynoldfullstacklabs/capacitor-car-audio
 
 Provides Apple CarPlay and Android Auto support for Capacitor audio apps
 
 ## Install
 
 ```bash
-npm install @justicointeractive/capacitor-car-audio
+npm install @reynoldfullstacklabs/capacitor-car-audio
 npx cap sync
 ```
 

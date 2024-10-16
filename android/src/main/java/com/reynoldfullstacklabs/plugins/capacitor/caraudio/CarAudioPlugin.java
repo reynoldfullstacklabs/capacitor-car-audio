@@ -1,4 +1,4 @@
-package com.justicointeractive.plugins.capacitor.caraudio;
+package com.reynoldfullstacklabs.plugins.capacitor.caraudio;
 
 import android.content.Context;
 import android.content.SharedPreferences;

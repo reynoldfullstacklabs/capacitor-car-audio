@@ -51,7 +51,7 @@ repositories {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation project(':capacitor-android')
-    implementation project(':capacitor-audio')
+    implementation project(':reynoldfullstacklabs-capacitor-audio')
     implementation "androidx.appcompat:appcompat:$androidxAppCompatVersion"
     implementation 'com.android.volley:volley:1.2.1'
     implementation 'androidx.media:media:1.4.2'

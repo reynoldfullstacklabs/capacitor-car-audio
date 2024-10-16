@@ -1,4 +1,4 @@
-package com.justicointeractive.plugins.capacitor.caraudio;
+package com.reynoldfullstacklabs.plugins.capacitor.caraudio;
 
 import android.content.ComponentName;
 import android.content.ContentResolver;
@@ -23,7 +23,7 @@ import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.getcapacitor.CapConfig;
-import com.justicointeractive.plugins.capacitor.audio.AudioPluginService;
+import com.reynoldfullstacklabs.plugins.capacitor.audio.AudioPluginService;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
