@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.reynoldfullstacklabs.plugins.capacitor.caraudio">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application>
 
         <service android:name=".CarAudioMediaBrowserService" android:exported="true">
@@ -7,9 +7,7 @@
             </intent-filter>
         </service>
 
-
         <meta-data android:name="com.google.android.gms.car.application" android:resource="@xml/automotive_app_desc"/>
-
 
         <provider android:name=".CarAudioFileProvider" android:authorities="${applicationId}.caraudiofileprovider" android:exported="true" android:grantUriPermissions="true">
         </provider>
